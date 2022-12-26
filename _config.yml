@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -108,8 +108,8 @@ analytics:
 author:
   name             : "YeJi"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "** WHATEVER ** 내 마음대로 기록하는 블로그."
-  location         : "Seoul Korea"
+  bio              : "WHATEVER 내 마음대로 기록하는 블로그."
+  location         : "Republic of Korea"
   email            :
   links:
     - label: "Email"
