@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -22,7 +22,9 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "YeJi"
 description              : "An amazing website."
 url                      : "https://YeJi-Ecoder.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : # the subpath of 
+
+site, e.g. "/blog"
 repository               : "YeJi-Ecoder/YeJi-Ecoder.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -104,10 +106,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "YeJi"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "** WHATEVER ** 내 마음대로 기록하는 블로그."
+  location         : "Seoul Korea"
   email            :
   links:
     - label: "Email"
