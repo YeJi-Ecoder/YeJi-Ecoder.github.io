@@ -109,6 +109,7 @@ author:
   bio              : "**WHATEVER** 내 마음대로 적는 블로그."
   location         : "Seoul Korea"
   email            :
+  
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -124,7 +125,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/YeJi-Ecoder"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
