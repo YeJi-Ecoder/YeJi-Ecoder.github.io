@@ -25,7 +25,8 @@ layout: archive
       {% for post in year.items %}
         {% include archive-single.html type=entries_layout %}
       {% endfor %}
-      <script src="https://giscus.app/client.js"
+    </div>
+    <script src="https://giscus.app/client.js"
         data-repo="YeJi-Ecoder/YeJi-Ecoder.github.io"
         data-repo-id="R_kgDOIrX0Pw"
         data-category="Announcements"
@@ -40,7 +41,6 @@ layout: archive
         crossorigin="anonymous"
         async>
         </script>
-    </div>
     
     <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
   </section>
