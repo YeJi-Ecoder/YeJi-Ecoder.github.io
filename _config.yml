@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "작명 중입니다."
+title                    : "𝚆𝑯𝙰𝚃𝙴𝚅𝑬𝑹"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "YeJi"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "YeJi"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "**WHATEVER** 내 마음대로 적는 블로그💛"
+  bio              : "내 마음대로 적는 블로그💛"
   location         : "Seoul Korea"
   email            :
   
