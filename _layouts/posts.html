@@ -15,6 +15,22 @@ layout: archive
   {% endfor %}
 </ul>
 
+<script src="https://giscus.app/client.js"
+        data-repo="YeJi-Ecoder/YeJi-Ecoder.github.io"
+        data-repo-id="R_kgDOIrX0Pw"
+        data-category="General"
+        data-category-id="DIC_kwDOIrX0P84CTaV-"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="light_high_contrast"
+        data-lang="ko"
+        crossorigin="anonymous"
+        async>
+</script>
+
 {% assign entries_layout = page.entries_layout | default: 'list' %}
 {% assign postsByYear = site.posts | where_exp: "item", "item.hidden != true" | group_by_exp: 'post', 'post.date | date: "%Y"' %}
 {% for year in postsByYear %}
