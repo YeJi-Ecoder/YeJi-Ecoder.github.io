@@ -1,11 +1,11 @@
 ---
 title: "[기술동향 브리핑] DID 비즈니스와 블록체인 생태계"
 categories: 
-  - tech
+  - ech
 tags:
   - Tech
   - DID
-  - 
+  - 더블 
 ---
 
 ### 자료 1. DID사업의 비즈니스 모델
