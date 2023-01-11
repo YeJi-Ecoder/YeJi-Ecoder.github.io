@@ -1,7 +1,7 @@
 ---
 title: "[기술동향 브리핑] Zero Turst"
 categories: 
-  - tech
+  - Tech
 tags:
   - Tech
   - Zero Trust
